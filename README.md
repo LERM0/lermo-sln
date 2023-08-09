@@ -1,6 +1,6 @@
 # Lermo: Social Learning Network
 
-Lermo is a social platform for education that aims to create a vibrant learning community. It combines the concepts of popular social media platforms like Facebook and communication tools like Discord to provide an interactive and collaborative learning experience.
+Lermo is a social platform for education that aims to create a vibrant learning community. It combines the concepts of social media platforms and communication tools to provide an interactive and collaborative learning experience.
 
 # Features
 
