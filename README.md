@@ -4,6 +4,18 @@
 
 Lermo is a social platform for education that aims to create a vibrant learning community. It combines the concepts of social media platforms and communication tools to provide an interactive and collaborative learning experience.
 
+# Get Started
+
+## Local environment
+```
+docker-compose up
+```
+
+## Kubenetes
+```
+helm install lermo-sln ..... 
+```
+
 # Features
 
 Lermo offers a range of features designed to enhance the learning process and foster engagement within the community. Some of the key features include:
@@ -36,6 +48,7 @@ While Lermo is provided free of charge, we offer additional support and infrastr
 
 By charging for support and infrastructure, we can ensure that Lermo remains easy to deploy and maintain, providing a seamless experience for users at an affordable price point.
 
+
 # Geting Started
 
 ## Local environment
@@ -51,3 +64,18 @@ https://github.com/LERM0/lermo-sln-web
 ```
 helm install lermo-sln ..... 
 ```
+
+# Support Us
+
+We appreciate your support for our project! Here are the different ways you can contribute, sponsor, or invest in our initiative:
+
+Contributor: We are currently building a small group of contributors for this project as it is still in its initial stages. We welcome individuals who are interested in joining our team and contribute to the development and improvement of this project. Please reach out to us at contact@lermo.io to express your interest and discuss potential contributions.
+
+Sponsorship: We are planning to utilize platforms such as Github Sponsors, Patreon, and buymeacoffee to gather financial support for this project. Your sponsorship will greatly assist us in furthering our mission of changing the education system. Stay tuned for more information on how you can sponsor and support our project through these platforms.
+
+Investor: We welcome investors who share our vision and understand the mission of our project. While we value financial support, it is important for us to work with investors who align with our purpose rather than solely focusing on monetary gains. If you are an investor who sees the value in what we are doing and believes in our mission of transforming the education system, we would be delighted to discuss potential collaborations. Please contact us at contact@lermo.io 
+
+# Lermo Mission
+
+"Picture a groundbreaking education system that transcends barriers, offering boundless access to knowledge for all. It embodies inclusivity and equality, empowering learners worldwide to embrace their potential and pursue dreams without constraints. In this educational utopia, knowledge fuels curiosity, ignites intellect, and fosters a love for learning, shaping a brighter, enlightened future for humanity. Let's dare to envision and strive for an education system that belongs to everyone—a beacon of hope and empowerment, inspiring generations to flourish and make a positive impact."
+
