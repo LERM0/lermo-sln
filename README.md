@@ -1,5 +1,7 @@
 # Lermo: Social Learning Network
 
+![](Lermo-sln.png)
+
 Lermo is a social platform for education that aims to create a vibrant learning community. It combines the concepts of social media platforms and communication tools to provide an interactive and collaborative learning experience.
 
 # Get Started
@@ -47,6 +49,22 @@ While Lermo is provided free of charge, we offer additional support and infrastr
 By charging for support and infrastructure, we can ensure that Lermo remains easy to deploy and maintain, providing a seamless experience for users at an affordable price point.
 
 
+# Geting Started
+
+## Local environment
+```
+# API
+https://github.com/LERM0/lermo-sln-api
+
+# Web
+https://github.com/LERM0/lermo-sln-web
+```
+
+## Kubenetes (Inprogress)
+```
+helm install lermo-sln ..... 
+```
+
 # Support Us
 
 We appreciate your support for our project! Here are the different ways you can contribute, sponsor, or invest in our initiative:
@@ -60,3 +78,4 @@ Investor: We welcome investors who share our vision and understand the mission o
 # Lermo Mission
 
 "Picture a groundbreaking education system that transcends barriers, offering boundless access to knowledge for all. It embodies inclusivity and equality, empowering learners worldwide to embrace their potential and pursue dreams without constraints. In this educational utopia, knowledge fuels curiosity, ignites intellect, and fosters a love for learning, shaping a brighter, enlightened future for humanity. Let's dare to envision and strive for an education system that belongs to everyone—a beacon of hope and empowerment, inspiring generations to flourish and make a positive impact."
+
