@@ -1,5 +1,7 @@
 # Lermo: Social Learning Network
 
+![](Lermo-sln.png)
+
 Lermo is a social platform for education that aims to create a vibrant learning community. It combines the concepts of social media platforms and communication tools to provide an interactive and collaborative learning experience.
 
 # Features
@@ -34,14 +36,18 @@ While Lermo is provided free of charge, we offer additional support and infrastr
 
 By charging for support and infrastructure, we can ensure that Lermo remains easy to deploy and maintain, providing a seamless experience for users at an affordable price point.
 
-# Get Started
+# Geting Started
 
 ## Local environment
 ```
-docker-compose up
+# API
+https://github.com/LERM0/lermo-sln-api
+
+# Web
+https://github.com/LERM0/lermo-sln-web
 ```
 
-## Kubenetes
+## Kubenetes (Inprogress)
 ```
 helm install lermo-sln ..... 
 ```
